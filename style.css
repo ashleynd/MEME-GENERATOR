@@ -1,0 +1,177 @@
+
+h1 {
+    position: relative;
+    left: 17%;
+    font-size: 38pt;
+    font-family: impact, Arial, Helvetica, sans-serif;
+}
+.tagline {
+    position: relative;
+    left: 17%;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.task {
+    list-style-type: none;
+}
+
+img {
+    font-family: 'Raleway', sans-serif;
+    height: 500px; 
+    position: relative;
+    right: 7%;
+    top: 500%;
+}
+#submit-image {
+    font-family: 'Raleway', sans-serif;
+    width: 600px; 
+    height: 20px;
+    position: relative;
+    left: 37px;
+}
+#firstLine {
+    width: 600px; 
+    height: 20px;
+    position: relative;
+    left: 33px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#lastLine {
+    width: 600px; 
+    height: 20px;
+    position: relative;
+    left: 8px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#formHere {
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    left: 23%;
+}
+
+#myImage {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 40%;
+    left: 37%;
+}
+
+
+#myTopText {
+    text-align: center;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    line-height: 800%;
+    position: absolute;
+    top: 145px;
+    right: 190px;
+    bottom: auto;
+    left: 237px;
+    font-family: impact, Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 3em;
+    margin: 15px 0;
+    padding: 0 5px;
+    letter-spacing: 1px;
+    color: white;
+    text-shadow:2px 2px 0 black,
+    -2px -2px 0 black,
+    2px -2px 0 black,
+    -2px 2px 0 black,
+    0px 2px 0 black,
+    2px 0px 0 black,
+    0px -2px 0 black,
+    -2px 0px 0 black,
+    2px 2px 5px black;
+}
+#myBottomText {
+    text-align: center;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    line-height: 800%;
+    position: absolute;
+    top: 585px;
+    right: 190px;
+    left: 237px;
+    font-family: impact, Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 3em;
+    margin: 15px 0;
+    padding: 0 5px;
+    letter-spacing: 1px;
+    color: white;
+    text-shadow:2px 2px 0 black,
+    -2px -2px 0 black,
+    2px -2px 0 black,
+    -2px 2px 0 black,
+    0px 2px 0 black,
+    2px 0px 0 black,
+    0px -2px 0 black,
+    -2px 0px 0 black,
+    2px 2px 5px black;
+}
+
+.submit {
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    left: 500px;
+    top: 0px;
+    background-color: turquoise;
+    border: none;
+    border-radius: 15px;
+    padding: 11px 25px 9px 25px;
+    cursor: pointer;
+    outline: none;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px #999;
+  }
+  
+  .submit:hover {
+      background-color: rgb(152, 255, 245);
+      transition: all 1s ease;
+      transition: all 1s ease;
+    }
+
+
+    button {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        left: -85px;
+        color:  rgb(83, 83, 83);
+        border: solid 1px rgb(83, 83, 83);
+        border-radius: 10px;
+        padding: 15px;
+        background-color: transparent;
+        box-shadow: 3px 3px 3px #999;
+        border: solid 0.5px;
+        font-family: 'Raleway', sans-serif;
+    }
+
+
+  
+
+#refresh {
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    left: 510px;
+    top: 0px;
+    background-color: rgb(102, 232, 255);
+    border: none;
+    border-radius: 15px;
+    padding: 6px 15px 7px 15px;
+    outline: none;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px #999;
+
+}
+
+#refresh:hover {
+    background-color: rgb(190, 245, 255);
+    transition: all 1s ease;
+    transition: all 1s ease;
+  }
+
+
